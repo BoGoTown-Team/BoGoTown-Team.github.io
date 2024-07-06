@@ -1,9 +1,8 @@
 <!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
+<html>
+<head>    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>BoGoTown I Acceuil</title>
+	<title>BoGoTown I team</title>
     <link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="favicon/favicon-16x16.png">
@@ -13,10 +12,10 @@
     <meta name="theme-color" content="#ffffff">
 </head>
 <body>
-    <h1>Le site BoGoTown est en construction</h1>
-    <img src="logo.png" alt="oups ! cette image ne marche pas ...">
-    <img src="coucou.png" alt="oups ! cette image ne marche pas ...">
-    <p>En attendant, rejoignez notre <a href="https://discord.gg/QgrA4emTCn">discord</a></p>
-	<a href="team.html">l'equipe de BoGoTown</a></p>
+
+<h1>Voici la team de BoGoTown</h1>
+<p>createur : RoBo_Go</p>
+<p>co-createur : Ange_mc<p>
+<p>buildeur principal : Skykix<p>
 </body>
 </html>
